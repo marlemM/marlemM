@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Sou estudante do 7º periodo do curso de Bacharelado em Sistemas de Informação, UFRN ceres Caicó
+tambem sou tecnico em informática, IFRN campus Parelhas
+e trabalho como Analista Backoffice na Proxxima Telecomunicações S.A
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlemM)](https://github.com/marlemM/github-readme-stats)
 
 <!--
